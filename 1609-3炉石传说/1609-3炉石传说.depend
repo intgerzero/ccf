@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489503053 source:/home/ouzuosong/workplace/codeblocks/ccf/1609-3炉石传说/main.cpp
+	<iostream>
+	<vector>
+	<string>
+
